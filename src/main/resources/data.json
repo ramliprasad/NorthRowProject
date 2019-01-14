@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Eggs",
+		"type": "Non Veg",
+		"quantity": 13
+	}, 
+	{
+		"name": "Garlic",
+		"type": "Veg",
+		"quantity": 10
+	},
+	{
+		"name": "Milk",
+		"type": "Diary",
+		"quantity": 10
+	},
+	{
+		"name": "Cucumber",
+		"type": "Veg",
+		"quantity": 10
+	},
+	{
+		"name": "Butter",
+		"type": "Diary",
+		"quantity": 10
+	}
+]
